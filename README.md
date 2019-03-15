@@ -1,6 +1,6 @@
 # Spryker Feature: Alternative Products
 
-Define alternative products that were discountinued or out of stock
+Define alternative products for products that were discountinued or went out of stock
 
 ## Installation
 
