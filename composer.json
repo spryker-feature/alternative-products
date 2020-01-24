@@ -6,12 +6,14 @@
   "minimum-stability": "dev",
   "require": {
     "php": ">=7.1",
-    "spryker-feature/product": "~2018.11.0",
     "spryker-shop/product-alternative-widget": "^1.1.0",
     "spryker-shop/product-replacement-for-widget": "^1.2.1",
     "spryker/product-alternative": "^1.0.0",
     "spryker/product-alternative-data-import": "^1.0.0",
     "spryker/product-alternative-gui": "^1.0.0",
     "spryker/product-alternative-storage": "^1.2.0"
+  },
+  "suggest": {
+    "spryker-feature/product": "Recommended feature dependency."
   }
 }
