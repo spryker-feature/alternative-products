@@ -9,14 +9,14 @@
         "php": ">=8.0",
         "spryker-shop/product-alternative-widget": "^1.5.0",
         "spryker-shop/product-replacement-for-widget": "^1.5.0",
-        "spryker/product-alternative": "^1.1.0",
-        "spryker/product-alternative-data-import": "^1.0.1",
+        "spryker/product-alternative": "^1.3.0",
+        "spryker/product-alternative-data-import": "^1.1.0",
         "spryker/product-alternative-gui": "^1.2.0",
-        "spryker/product-alternative-storage": "^1.10.0"
+        "spryker/product-alternative-storage": "^1.11.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202212.x-dev"
+            "dev-master": "202307.x-dev"
         }
     },
     "suggest": {
