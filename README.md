@@ -2,6 +2,8 @@
 
 Define alternative products for products that were discountinued or went out of stock
 
+[Learn more](https://docs.spryker.com/docs/pbc/all/product-information-management/202307.0/base-shop/feature-overviews/alternative-products-feature-overview.html)
+
 ## Installation
 
 ```
