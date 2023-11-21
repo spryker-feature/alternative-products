@@ -11,7 +11,7 @@
         "spryker-shop/product-replacement-for-widget": "^1.5.0",
         "spryker/product-alternative": "^1.3.0",
         "spryker/product-alternative-data-import": "^1.1.0",
-        "spryker/product-alternative-gui": "^1.2.0",
+        "spryker/product-alternative-gui": "^1.3.0",
         "spryker/product-alternative-storage": "^1.11.0"
     },
     "extra": {
