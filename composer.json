@@ -11,12 +11,12 @@
         "spryker-shop/product-replacement-for-widget": "^1.6.0",
         "spryker/product-alternative": "^1.4.0",
         "spryker/product-alternative-data-import": "^1.2.0",
-        "spryker/product-alternative-gui": "^2.0.0",
-        "spryker/product-alternative-storage": "^1.13.0"
+        "spryker/product-alternative-gui": "^2.1.0",
+        "spryker/product-alternative-storage": "^1.14.0"
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202602.x-dev"
+            "dev-master": "202604.x-dev"
         }
     },
     "suggest": {
