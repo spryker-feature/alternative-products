@@ -8,7 +8,7 @@
     "require": {
         "php": ">=8.2",
         "spryker-shop/product-alternative-widget": "^1.6.0",
-        "spryker-shop/product-replacement-for-widget": "^1.6.0",
+        "spryker-shop/product-replacement-for-widget": "^1.7.0",
         "spryker/product-alternative": "^1.4.0",
         "spryker/product-alternative-data-import": "^1.2.0",
         "spryker/product-alternative-gui": "^2.1.0",
@@ -16,7 +16,7 @@
     },
     "extra": {
         "branch-alias": {
-            "dev-master": "202604.x-dev"
+            "dev-master": "202606.x-dev"
         }
     },
     "suggest": {
